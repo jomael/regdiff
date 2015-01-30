@@ -1,0 +1,17 @@
+syntax: glob
+.DS_Store
+docs/
+e-mail/
+new/
+test/
+results.txt
+*.~dpr
+*.~ddp
+*.~pas
+*.~dfm
+utils/
+RegDiff.cfg
+RegDiff.exe
+*.dcu
+*.ddp
+Thumbs.db
