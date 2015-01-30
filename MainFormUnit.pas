@@ -280,7 +280,7 @@ end;
 
 procedure TMainForm.HelpButtonClick(Sender: TObject);
 begin
-ShowMessage(ProgramDescription + #13#10);
+ShowMessage(ProgramDescription + #13#10 + #13#10 + 'Author: Miguel (mhcuervo@gmail.com)');
 end;
 
 end.
